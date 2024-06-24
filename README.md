@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://motoyama.org/mt-content/uploads/2024/06/logo.png" alt="MOTOYAMA" title="MOTOYAMA">
+  <a href="https://motoyama.one" target="_blank">
+    <img src="https://motoyama.org/mt-content/uploads/2024/06/logo.png" alt="MOTOYAMA" title="MOTOYAMA">
+  </a>
 </p>
 
 # Об авторе
